@@ -1,4 +1,4 @@
-import { ReactComponent as GithubIco } from 'assets/github.svg';
+import { ReactComponent as GithubIco } from 'assets/imgs/github.svg';
 import './styles.css';
 function Navbar() {
     return (
