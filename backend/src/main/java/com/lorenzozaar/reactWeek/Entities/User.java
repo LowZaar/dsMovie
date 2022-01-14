@@ -1,4 +1,4 @@
-package com.lorenzozaar.reactWeek.reactWeek.entities;
+package com.lorenzozaar.reactWeek.Entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

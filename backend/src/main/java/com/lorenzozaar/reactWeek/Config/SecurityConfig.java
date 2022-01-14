@@ -1,4 +1,4 @@
-package com.lorenzozaar.reactWeek.reactWeek.config;
+package com.lorenzozaar.reactWeek.Config;
 
 import java.util.Arrays;
 
