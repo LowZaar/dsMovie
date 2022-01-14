@@ -13,7 +13,7 @@ import com.lorenzozaar.reactWeek.Services.MovieService;
 
 @RestController
 @RequestMapping(value = "/movies")
-public class movieController  {
+public class MovieController  {
 	
 	@Autowired
 	private MovieService service;
