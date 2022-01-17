@@ -1,5 +1,4 @@
 import './styles.css';
-import * as os from 'os';
 import { Movie } from 'types/movie';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
